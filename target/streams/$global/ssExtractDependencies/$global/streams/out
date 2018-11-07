@@ -1,0 +1,1 @@
+[error] sbt.librarymanagement.ResolveException: unresolved dependency: ws.securesocial#securesocial_2.12;master: not found

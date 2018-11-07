@@ -1,0 +1,6 @@
+[debug] Copy resource mappings: 
+[debug] 	(C:\Users\Jann\Documents\IuK_III_W\fitbuddysocial\conf\application.conf,C:\Users\Jann\Documents\IuK_III_W\fitbuddysocial\target\scala-2.12\classes\application.conf)
+[debug] 	(C:\Users\Jann\Documents\IuK_III_W\fitbuddysocial\conf\logback.xml,C:\Users\Jann\Documents\IuK_III_W\fitbuddysocial\target\scala-2.12\classes\logback.xml)
+[debug] 	(C:\Users\Jann\Documents\IuK_III_W\fitbuddysocial\conf\play.plugins,C:\Users\Jann\Documents\IuK_III_W\fitbuddysocial\target\scala-2.12\classes\play.plugins)
+[debug] 	(C:\Users\Jann\Documents\IuK_III_W\fitbuddysocial\conf\routes,C:\Users\Jann\Documents\IuK_III_W\fitbuddysocial\target\scala-2.12\classes\routes)
+[debug] 	(C:\Users\Jann\Documents\IuK_III_W\fitbuddysocial\conf\securesocial.conf,C:\Users\Jann\Documents\IuK_III_W\fitbuddysocial\target\scala-2.12\classes\securesocial.conf)

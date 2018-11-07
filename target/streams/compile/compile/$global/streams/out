@@ -1,0 +1,7 @@
+[error] C:\Users\Jann\Documents\IuK_III_W\fitbuddysocial\conf\routes:14:1: type routes is not a member of package securesocial
+[error] ->         /auth                securesocial.routes
+[error] C:\Users\Jann\Documents\IuK_III_W\fitbuddysocial\conf\routes:14:1: type routes is not a member of package securesocial
+[error] ->         /auth                securesocial.routes
+[error] C:\Users\Jann\Documents\IuK_III_W\fitbuddysocial\conf\routes:14:1: type routes is not a member of package securesocial
+[error] ->         /auth                securesocial.routes
+[error] three errors found
